@@ -7,7 +7,7 @@ This project demonstrates a simulated version of a real-life daily "Active Clien
 
 ---
 
-## 🏆 Key Achievement – Active Clients Report
+## 🏆 Active Clients Report
 This project is a demo version of a real-life report developed in a corporate banking environment.
 
 The original report, created in Bereke Bank, helped identify active and profitable clients, track their financial behavior, and visualize key client activity metrics on a daily basis. It was a core analytical tool used by the Corporate Clients Department to make strategic decisions.
