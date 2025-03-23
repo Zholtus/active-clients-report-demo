@@ -7,6 +7,21 @@ This project demonstrates a simulated version of a real-life daily "Active Clien
 
 ---
 
+## 🏆 Key Achievement – Active Clients Report
+This project is a demo version of a real-life report developed in a corporate banking environment.
+
+The original report, created in Bereke Bank, helped identify active and profitable clients, track their financial behavior, and visualize key client activity metrics on a daily basis. It was a core analytical tool used by the Corporate Clients Department to make strategic decisions.
+
+**Key impacts of the real project:**
+- Improved client segmentation and retention strategy
+- Supported the discontinuation of underperforming products
+- Increased engagement with high-value clients
+- Full automation reduced reporting time and manual work
+
+All logic and automation (SQL, Tableau dashboards, and VBA scripts) were fully developed and optimized by the author.
+
+---
+
 ## 🎯 Objectives
 - Identify active and profitable clients
 - Track key metrics:
@@ -21,7 +36,7 @@ This project demonstrates a simulated version of a real-life daily "Active Clien
 
 ## 🛠 Tools & Technologies
 - **SQL** – Data extraction and transformation
-- **Qlik** – Dashboard development and visualization
+- **Tableau** – Dashboard development and visualization
 - **VBA** – Report automation and optimization
 
 ---
@@ -30,7 +45,7 @@ This project demonstrates a simulated version of a real-life daily "Active Clien
 - Sample SQL queries (based on synthetic tables)
 - Demo data structures (CSV/SQL files)
 - Mock VBA scripts for automation
-- Qlik dashboard screenshots (using demo data)
+- Tableau dashboard screenshots (using demo data)
 
 ---
 
@@ -51,7 +66,7 @@ active-clients-report-demo/
 │   └── active_clients_query.sql
 ├── vba/
 │   └── automation_macro.vba
-├── qlik/
+├── tableau/
 │   └── dashboard_mockup.png
 └── README.md
 ```
