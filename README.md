@@ -34,6 +34,13 @@ All logic and automation (SQL, Tableau dashboards, and VBA scripts) were fully d
 
 ---
 
+## 📊 Visualization
+To provide a clearer representation of active client dynamics, a graphical dashboard has been included. The visualization helps track key trends and metrics over time, supporting more informed decision-making.
+
+![Active Clients Chart](data/graf.png)
+
+---
+
 ## 🛠 Tools & Technologies
 - **SQL** – Data extraction and transformation
 - **Tableau** – Dashboard development and visualization
@@ -46,6 +53,7 @@ All logic and automation (SQL, Tableau dashboards, and VBA scripts) were fully d
 - Demo data structures (CSV/SQL files)
 - Mock VBA scripts for automation
 - Tableau dashboard screenshots (using demo data)
+- Active clients visualization (added)
 
 ---
 
@@ -57,11 +65,12 @@ All logic and automation (SQL, Tableau dashboards, and VBA scripts) were fully d
 
 ---
 
-## 📂 Folder Structure (to be created)
+## 📂 Folder Structure (to be updated)
 ```
 active-clients-report-demo/
 ├── data/
-│   └── demo_clients.csv
+│   ├── demo_clients.csv
+│   ├── graf.png
 ├── sql/
 │   └── active_clients_query.sql
 ├── vba/
@@ -77,7 +86,7 @@ active-clients-report-demo/
 - Add anonymized example queries
 - Upload sample demo data
 - Include VBA automation scripts
-- Add dashboard visualizations
+- Add additional dashboard visualizations
 
 ---
 
